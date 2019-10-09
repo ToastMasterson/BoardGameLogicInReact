@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.10.2",
+    "react-css-grid": "^2.0.0-0",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
   },
